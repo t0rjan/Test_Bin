@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "cmd /c D:/v2ray_DIC/fq.bat",0  
